@@ -14,7 +14,9 @@ Link to demo video - https://drive.google.com/file/d/1oDgXV68hy_9jHmrS6iRJokaarL
 - Handles various types of queries such as:
   - "Which restaurant offers vegan options?"
   - "Compare desserts at Restaurant A vs B."
-  - "Does ABC have gluten-free appetizers?"
+  - "Price of a dish ABC at restaurant XYZ"
+
+## Instructions To Run
 
 ### Step 1: Clone the repository
 ```bash
