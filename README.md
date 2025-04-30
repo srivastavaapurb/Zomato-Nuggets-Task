@@ -2,7 +2,7 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot capable of answering natural language queries about restaurants using real-world scraped data. The goal is to simulate how Zomato users might search for information about menus, dietary options, pricing, and more through an intelligent AI assistant.
 
----
+Link to demo video - https://drive.google.com/file/d/1oDgXV68hy_9jHmrS6iRJokaarLhbuXFp/view
 
 ## Features
 
@@ -16,22 +16,18 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot capable o
   - "Compare desserts at Restaurant A vs B."
   - "Does ABC have gluten-free appetizers?"
 
----
-
-## Project Structure
-
-<pre> ## Project Structure ``` Zomato-Nuggets-_Task/ ├── Zomato_RAG_Chatbot.ipynb # Full pipeline (scraper, retriever, generator, UI) ├── restaurant_data.json # Structured output of scraped data ├── requirements.txt # Python dependencies ├── README.md # Project overview and instructions ├── technical_doc.md # Detailed system design and architecture └── demo_video_link.txt # Link to 3-minute walkthrough video ``` </pre>
-
 ### Step 1: Clone the repository
-
 ```bash
-git clone https://github.com/srivastavaapurb/Zomato-Nuggets-_Task.git
-cd Zomato-Nuggets-_Task
+git clone https://github.com/srivastavaapurb/Zomato-Nuggets-Task.git
+cd Zomato-Nuggets-Task
+```
 
 ### Step 2: Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 ### Step 3: Launch the notebook
-
+```bash
 jupyter notebook Zomato_RAG_Chatbot.ipynb
+```
