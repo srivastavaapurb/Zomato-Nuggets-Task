@@ -1,0 +1,2937 @@
+{
+  "sita-ram-diwan-chand-paharganj-new-delhi": [
+    {
+      "section": "Chole Bhature",
+      "item": "Chole Bhature Full",
+      "price": 120
+    },
+    {
+      "section": "Chole Bhature",
+      "item": "Chole Bhature Half",
+      "price": 57.14
+    },
+    {
+      "section": "Chole Bhature",
+      "item": "Extra Bhature",
+      "price": 23.81
+    },
+    {
+      "section": "Chole Bhature",
+      "item": "Only Chole",
+      "price": 57.14
+    },
+    {
+      "section": "Chole Bhature",
+      "item": "Office Tray Packing",
+      "price": 120
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Aam Panna",
+      "price": 57.14
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Shikanji Jeera",
+      "price": 57.14
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Nimbu Masala",
+      "price": 57.14
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Sweet Lassi",
+      "price": 57.14
+    },
+    {
+      "section": "Chole Bhature & Shikanji",
+      "item": "Chole Bhature With Shikanji Combo (2)",
+      "price": 354.28
+    },
+    {
+      "section": "Chole Bhature & Shikanji",
+      "item": "Chole Bhature With Shikanji Combo (4)",
+      "price": 708.56
+    },
+    {
+      "section": "Chole Bhature & Shikanji",
+      "item": "Chole Bhature With Shikanji Combo (6)",
+      "price": 1062.84
+    },
+    {
+      "section": "Chole Bhature & Lassi",
+      "item": "Family Pack (2)",
+      "price": 354.28
+    },
+    {
+      "section": "Chole Bhature & Lassi",
+      "item": "Family Pack (4)",
+      "price": 708.56
+    },
+    {
+      "section": "Chole Bhature & Lassi",
+      "item": "Family Pack (6)",
+      "price": 1062.84
+    },
+    {
+      "section": "Chole Bhature & Lassi",
+      "item": "Student Pack (3)",
+      "price": 531.42
+    }
+  ],
+  "gulati-pandara-road-new-delhi": [
+    {
+      "section": "Party Packs",
+      "item": "Four Starter Party Box (non Veg)",
+      "price": 3099
+    },
+    {
+      "section": "Party Packs",
+      "item": "Four Starter Party Box (veg)",
+      "price": 2899
+    },
+    {
+      "section": "Party Packs",
+      "item": "Triple Biryani Party Box (veg & Non Veg)",
+      "price": 1899
+    },
+    {
+      "section": "Party Packs",
+      "item": "Triple Starter Party Box (Hyderabadi) (Veg & Non Veg)",
+      "price": 1699
+    },
+    {
+      "section": "Hyderabadi Dum Biryanis",
+      "item": "Hyderabadi Murgh Malai Biryani",
+      "price": 869
+    },
+    {
+      "section": "Hyderabadi Dum Biryanis",
+      "item": "Hyderabadi Veg Dum Biryani [Tahiri]",
+      "price": 699
+    },
+    {
+      "section": "Hyderabadi Dum Biryanis",
+      "item": "Hyderabadi Chicken Biryani",
+      "price": 869
+    },
+    {
+      "section": "Hyderabadi Dum Biryanis",
+      "item": "Hyderabadi Mutton Biryani",
+      "price": 939
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Champaran Meat",
+      "price": 899
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Chicken Galouti.",
+      "price": 899
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Edamame Galouti.",
+      "price": 775
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Edamame Seekh.",
+      "price": 775
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Hyderabadi Dumpukth Murgh Malai Biryani",
+      "price": 869
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Paneer Double Tadka Masala.",
+      "price": 735
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Tawa Chicken.",
+      "price": 875
+    },
+    {
+      "section": "New Arrivals",
+      "item": "Tawa Paneer.",
+      "price": 695
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Cream Of Mushroom",
+      "price": 365
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Cream Of Veg",
+      "price": 365
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Cream Of Tomato",
+      "price": 365
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Hariyali Shorba",
+      "price": 365
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Chicken Clear Soup",
+      "price": 365
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Chicken Shorba",
+      "price": 365
+    },
+    {
+      "section": "Soup / Shorba",
+      "item": "Cream Of Chicken Soup",
+      "price": 365
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Crunchy Veggie Chops",
+      "price": 645
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Edamame Galouti (New)",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Edamame Seekh (New)",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Honey Chilli Cauliflower",
+      "price": 625
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Mushroom 65",
+      "price": 645
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Paneer - 65",
+      "price": 645
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Paneer Gilafi",
+      "price": 645
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Tandoori Aloo",
+      "price": 645
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Mushroom Galouti",
+      "price": 725
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Tandoori Bharwan Mushroom",
+      "price": 725
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Veg Seekh Kebab",
+      "price": 725
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Dahi Ke Kebab",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Gulati Special Paneer Tikka Lajawab",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Hara Bhara Cheese Kebab",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Paneer Malai Tikka",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Paneer Tikka",
+      "price": 775
+    },
+    {
+      "section": "Veg Starters",
+      "item": "Veg Galouti",
+      "price": 775
+    },
+    {
+      "section": "Veg Platters",
+      "item": "Gulati Special Lajawab Platter",
+      "price": 999
+    },
+    {
+      "section": "Veg Platters",
+      "item": "Veg Khazana",
+      "price": 999
+    },
+    {
+      "section": "Veg Platters",
+      "item": "Shahi Veg Platter",
+      "price": 1259
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Chicken Galouti",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Crunchy Chicken Chops",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Honey Chilli Chicken",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Kashmiri Kebab",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Murgh Tikka",
+      "price": 0
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Tandoori Chicken",
+      "price": 0
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Murgh Seekh Kebab",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Tangdi Kebab",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Chicken 65",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Shahi Nawabi Murgh Kebab",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Chicken Neza Kebab",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Murgh Malai Tikka",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Gulati Special Murgh Aur Gosht Ki Miloni Seekh",
+      "price": 849
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Mutton Kastoori Kebab [Mutton Seekh Kebab]",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Kakori Kebab",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Mutton Galouti Kebab",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Mutton Burrah Akbari",
+      "price": 1059
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Mutton Platter",
+      "price": 1499
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Non Veg Khazana",
+      "price": 1259
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Shahi Murgh Platter",
+      "price": 1489
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Shahi Non Veg Platter",
+      "price": 1799
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Fish - 65",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Amritsari Fish",
+      "price": 1099
+    },
+    {
+      "section": "Non Veg Starters",
+      "item": "Fish Tikka Lajawab",
+      "price": 1099
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Afghani Chicken",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Chicken Double Tadka Masala",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Chicken Khada Masala",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Tawa Chicken",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Egg Bhurjee",
+      "price": 665
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Chicken Do Pyaza B/l",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Egg Curry",
+      "price": 665
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Kadhai Murgh Masaledar",
+      "price": 0
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Murgh Makhani [Butter Chicken]",
+      "price": 0
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Chicken Methi Malai",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Hyderabadi Dum Ka Chicken",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Murgh Kali Mirch",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Saag Chicken",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Chicken Lababdar",
+      "price": 935
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Hyderabadi Murgh Handi",
+      "price": 935
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Murgh Gulati Bemisaal",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Murgh Tikka Masala",
+      "price": 935
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Rarha Murgh",
+      "price": 875
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Fish Curry",
+      "price": 999
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Fish Tikka Masala",
+      "price": 999
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Champaran Mutton",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Mutton Khada Masala",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Nalli Nihari",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Gosht Achari",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Gosht Dhaniya Adraki",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Kastoori Gosht",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Keema Masala",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Keema Mutter",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Magaz Masala [Brain Masala]",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Mutton Do Pyaza",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Saag Meat",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Bhuna Gosht",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Handi Gosht",
+      "price": 899
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Kadhai Meat",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Rarha Meat",
+      "price": 959
+    },
+    {
+      "section": "Non Veg Main Course",
+      "item": "Rogan Josh",
+      "price": 959
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Lehsuni Aloo Palak",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Aamras Aloo",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Aloo Achari",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Aloo Gobhi",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Bharwan Karela",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Bhindi Do Pyaza",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Bhindi Masala",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Chatpate Aloo",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Corn Capsicum Masala",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Corn Palak Methi",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Gobhi Masala",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Hyderabadi Dum Ke Aloo",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Jeera Aloo",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Khatte Meethe Aloo",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Kurkuri Bhindi",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mirchi Ka Salan",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Papad Pyaz Ki Subzi",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Sauteed Vegetable",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Palak Mushroom",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Hyderabadi Tadka Mushroom",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Kadhai Mushroom",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Khumb Hara Pyaz",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mattar Methi Malai",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mushroom Achari",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mushroom Butter Masala",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mushroom Do Pyaza",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mushroom Kastoori",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Mutter Mushroom",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Navratan Khorma",
+      "price": 670
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Palak Kofta",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Subz Mela [Mix Veg]",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Dilpasand Malai Kofta",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Dum Aloo Kashmiri",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Hyderabadi Vegetable Handi",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Malai Kofta Punjabi",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Tawa Vegetables",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Afghani",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Double Tadka Masala",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Tawa Paneer",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Palak Paneer",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Bhurji",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Papad Paneer Ki Subzi",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Kadhai Paneer",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Achari",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Dhania Adraki",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Do Pyaza",
+      "price": 695
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Hyderabadi",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Kali Mirch",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Kastoori",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Lababdar",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Makhani",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Paneer Tikka Masala",
+      "price": 735
+    },
+    {
+      "section": "Veg Main Course",
+      "item": "Shahi Paneer",
+      "price": 735
+    },
+    {
+      "section": "Dal Ke Nazrane",
+      "item": "Punjabi Chole",
+      "price": 625
+    },
+    {
+      "section": "Dal Ke Nazrane",
+      "item": "Dal Makhani",
+      "price": 695
+    },
+    {
+      "section": "Dal Ke Nazrane",
+      "item": "Yellow Dal",
+      "price": 685
+    },
+    {
+      "section": "Dal Ke Nazrane",
+      "item": "Yellow Dal Double Tadka",
+      "price": 695
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Olive Parantha",
+      "price": 195
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Mix Raita",
+      "price": 360
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Kashmiri Pulao [Home Style]",
+      "price": 579
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Paneer Pulao [Home Style]",
+      "price": 579
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Veg Pulao [Home Style]",
+      "price": 579
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Aloo Mutter [Home Style]",
+      "price": 670
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Corn Palak Methi [Home Style]",
+      "price": 670
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Jeera Aloo [Home Style]",
+      "price": 670
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Sauteed Veg",
+      "price": 670
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Yellow Dal [Home Style]",
+      "price": 685
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Mix Veg [Home Style]",
+      "price": 695
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Mutter Paneer [Home Style]",
+      "price": 695
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Paneer Bhurji [Home Style]",
+      "price": 695
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Egg Bhurji [Home Style]",
+      "price": 665
+    },
+    {
+      "section": "Home Style Food",
+      "item": "Egg Curry [Home Style]",
+      "price": 665
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Dahi Kebab (no Onion No Garlic)",
+      "price": 775
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Jeera Aloo [No Onion & Garlic]",
+      "price": 670
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Mutter Methi Malai (no Onion No Garlic)",
+      "price": 695
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Paneer Malai Tikka (no Onion No Garlic)",
+      "price": 775
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Shahi Paneer (no Onion No Garlic)",
+      "price": 735
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Sauteed Veg [No Onion No Garlic]",
+      "price": 670
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Yellow Dal [No Onion No Garlic]",
+      "price": 685
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Mix Veg [No Onion & Garlic]",
+      "price": 695
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Paneer Bhurji [No Onion No Garlic]",
+      "price": 695
+    },
+    {
+      "section": "No Onion No Garlic",
+      "item": "Paneer Makhani [No Onion No Garlic]",
+      "price": 735
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Garlic Curd Rice",
+      "price": 579
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Egg Fried Rice",
+      "price": 605
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Plain Rice",
+      "price": 479
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Jeera Pulao",
+      "price": 569
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Kashmiri Pulao",
+      "price": 579
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Paneer Pulao",
+      "price": 579
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Veg Pulao",
+      "price": 579
+    },
+    {
+      "section": "Basmati Ka Khazana",
+      "item": "Mutton Pulao",
+      "price": 939
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Burnt Garlic Raita",
+      "price": 380
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Khatti Meethi Dahi",
+      "price": 325
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Green Salad",
+      "price": 305
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Plain Curd",
+      "price": 315
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Plain Raita",
+      "price": 335
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Raita Of Your Choice",
+      "price": 360
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Dahi Bhalla (2 Pcs)",
+      "price": 225
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Pineapple Raita",
+      "price": 380
+    },
+    {
+      "section": "Chaats, Salad & Raita",
+      "item": "Palak Patta Chaat",
+      "price": 390
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Butter Roomali Roti",
+      "price": 150
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Chilli Garlic Roomali",
+      "price": 155
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Egg Parantha",
+      "price": 275
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Khameeri Roti",
+      "price": 155
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Tandoori Roti",
+      "price": 99
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Butter Roti",
+      "price": 125
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Roomali Roti",
+      "price": 145
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Gur Ka Parantha",
+      "price": 185
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Khasta Roti",
+      "price": 185
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Missi Masala Roti",
+      "price": 185
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Plain Naan",
+      "price": 190
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Ajwaini Paratha",
+      "price": 205
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Butter Naan",
+      "price": 205
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Hari Mirch Ka Paratha",
+      "price": 205
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Laal Mirch Ka Paratha",
+      "price": 205
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Lachha Paratha",
+      "price": 205
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Pudina Paratha",
+      "price": 205
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Olive Naan",
+      "price": 195
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Olive Paratha",
+      "price": 195
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Bharwan Naan",
+      "price": 275
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Bharwan Paratha",
+      "price": 275
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Cheese Naan",
+      "price": 280
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Cheese Parantha",
+      "price": 280
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Garlic Naan",
+      "price": 280
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Garlic Paratha",
+      "price": 280
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Punjabi Chur Chur Naan",
+      "price": 275
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Punjabi Chur Chur Paratha",
+      "price": 275
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Cheese Garlic Naan",
+      "price": 290
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Cheese Garlic Parantha",
+      "price": 290
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Chilli Garlic Naan",
+      "price": 290
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Chilli Garlic Parantha",
+      "price": 290
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Gulatis Special Shahi Bharwan Bread Basket",
+      "price": 545
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Mixed Bread Basket",
+      "price": 725
+    },
+    {
+      "section": "Naan Aur Rotiyan",
+      "item": "Keema Naan",
+      "price": 315
+    },
+    {
+      "section": "Meethai Ka Daur",
+      "item": "Fruit Cream",
+      "price": 325
+    },
+    {
+      "section": "Meethai Ka Daur",
+      "item": "Gulab Jamun",
+      "price": 325
+    },
+    {
+      "section": "Meethai Ka Daur",
+      "item": "Mung Dal Halwa",
+      "price": 385
+    },
+    {
+      "section": "Meethai Ka Daur",
+      "item": "Gulatis Special Dessert Platter",
+      "price": 445
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Chocolate Oreo Shake",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Cold Coffee",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Roasted Hazelnut Milkshake",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Iced Tea",
+      "price": 225
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Lotus Biscoff Milkshake",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Zero Coke",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Narangi Nirvana",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Nutella Chocolate Milkshake",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Thandai",
+      "price": 215
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Coke",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Diet Coke",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Sprite",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Thumsup",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Jaljeera",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Nimbu Shikanji",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Badam Thandai Bahar",
+      "price": 215
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Aam Ka Panna",
+      "price": 199
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Lemon Ice Tea",
+      "price": 225
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Chaach",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Fresh Lime Soda",
+      "price": 225
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Gulkand Lassi",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Lassi Of Your Choice",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Phalse Ki Shikanji",
+      "price": 240
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Blue Lagoon",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Fruit Punch",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Ginger Mint Breeze",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Kiwi Kooler",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Masala Virgin Mojito",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Paan Gulkand Mojito",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Tropical Fizz",
+      "price": 250
+    },
+    {
+      "section": "Drinks (Beverages)",
+      "item": "Virgin Mojito",
+      "price": 250
+    }
+  ],
+  "karims-jama-masjid-jama-masjid-new-delhi": [
+    {
+      "section": "Soup",
+      "item": "Chicken Soup",
+      "price": 145
+    },
+    {
+      "section": "Shan-E-Tandoor",
+      "item": "Chicken Burra",
+      "price": 0
+    },
+    {
+      "section": "Shan-E-Tandoor",
+      "item": "Chicken Tikka",
+      "price": 0
+    },
+    {
+      "section": "Shan-E-Tandoor",
+      "item": "Tandoori Chicken",
+      "price": 715
+    },
+    {
+      "section": "Shan-E-Tandoor",
+      "item": "Mutton Burra",
+      "price": 0
+    },
+    {
+      "section": "Shan-E-Tandoor",
+      "item": "Paneer Tikka",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Mutton Mughlai",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Mutton Jahangiri",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Badam Pasanda",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Brain Curry [1 Plate]",
+      "price": 530
+    },
+    {
+      "section": "Curries",
+      "item": "Gurda Kaleji",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Mutton Stew",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Mutton Korma",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Kadhai Gosht",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Egg Curry",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Nargisi Kofta (Mutton)",
+      "price": 425
+    },
+    {
+      "section": "Curries",
+      "item": "Chicken Jahangiri",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Chicken Mughlai",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Chicken Stew",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Kadhai Chicken",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Chicken Curry",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Butter Chicken",
+      "price": 0
+    },
+    {
+      "section": "Curries",
+      "item": "Chicken Saag",
+      "price": 0
+    },
+    {
+      "section": "Rice & Pulao",
+      "item": "Chicken Biryani",
+      "price": 0
+    },
+    {
+      "section": "Rice & Pulao",
+      "item": "Mutton Biryani",
+      "price": 0
+    },
+    {
+      "section": "Rice & Pulao",
+      "item": "Plain Rice",
+      "price": 0
+    },
+    {
+      "section": "Rice & Pulao",
+      "item": "Veg. Pulao",
+      "price": 0
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Chicken Boti Roll (1 Pc)",
+      "price": 275
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Chicken Seekh Kabab ( 1 Pc)",
+      "price": 110
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Chicken Seekh Roll (1 Pc)",
+      "price": 275
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Chicken Karim Roll (1Pc)",
+      "price": 300
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Mutton Boti Roll (1 Pc)",
+      "price": 300
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Mutton Shami Kabab (1 Pc)",
+      "price": 130
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Paneer Roll (1Pc)",
+      "price": 220
+    },
+    {
+      "section": "Kabab & Roll",
+      "item": "Mutton Seekh Kabab (1 Pc)",
+      "price": 120
+    },
+    {
+      "section": "Vegetable",
+      "item": "Aloo Mutter",
+      "price": 185
+    },
+    {
+      "section": "Vegetable",
+      "item": "Aloo Palak",
+      "price": 170
+    },
+    {
+      "section": "Vegetable",
+      "item": "Daal Makhani",
+      "price": 200
+    },
+    {
+      "section": "Vegetable",
+      "item": "Palak Paneer",
+      "price": 230
+    },
+    {
+      "section": "Vegetable",
+      "item": "Plain Dal",
+      "price": 80
+    },
+    {
+      "section": "Vegetable",
+      "item": "Shahi Paneer",
+      "price": 230
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Tandoori Roti",
+      "price": 16
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Rumali Roti",
+      "price": 16
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Butter Naan",
+      "price": 125
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Plain Naan",
+      "price": 115
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Mutton Qeema Naan",
+      "price": 240
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Plain Parantha",
+      "price": 125
+    },
+    {
+      "section": "Naan/Parantha/Roti",
+      "item": "Paneer Parantha",
+      "price": 185
+    },
+    {
+      "section": "Sweets",
+      "item": "Kheer",
+      "price": 52
+    },
+    {
+      "section": "Special",
+      "item": "Chicken Makhni Kabab (4Pc)",
+      "price": 500
+    },
+    {
+      "section": "Special",
+      "item": "Makhni Chicken Burra",
+      "price": 0
+    },
+    {
+      "section": "Special",
+      "item": "Makhni Mutton Burra",
+      "price": 0
+    },
+    {
+      "section": "Special",
+      "item": "Murgh Malai Tikka",
+      "price": 0
+    },
+    {
+      "section": "Special",
+      "item": "Mutton Makhni Kabab (4Pc)",
+      "price": 570
+    }
+  ],
+  "havemore-pandara-road-new-delhi": [
+    {
+      "section": "Starters",
+      "item": "Dahi Ke Kebab",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "French Fries",
+      "price": 330
+    },
+    {
+      "section": "Starters",
+      "item": "Mushroom Seekh",
+      "price": 695
+    },
+    {
+      "section": "Starters",
+      "item": "Paneer Seekh Kebab",
+      "price": 825
+    },
+    {
+      "section": "Starters",
+      "item": "Paneer Tikka Tandoori",
+      "price": 775
+    },
+    {
+      "section": "Starters",
+      "item": "Stuff Mushroom",
+      "price": 725
+    },
+    {
+      "section": "Starters",
+      "item": "Tandoori Aloo",
+      "price": 595
+    },
+    {
+      "section": "Starters",
+      "item": "Veg Seekh Kebab",
+      "price": 675
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Bara",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Botti Kebab",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Kalmi Kebab",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Malai Seekh",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Malai Tikka",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Reshmi Kebab",
+      "price": 945
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Tandoori",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Tangari Kebab",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Fish Tikka Tandoori",
+      "price": 1175
+    },
+    {
+      "section": "Starters",
+      "item": "Kakori Kebab",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Mutton Burra Kebab",
+      "price": 1095
+    },
+    {
+      "section": "Starters",
+      "item": "Mutton Tikka",
+      "price": 995
+    },
+    {
+      "section": "Starters",
+      "item": "Seekh Kebab",
+      "price": 0
+    },
+    {
+      "section": "Starters",
+      "item": "Chicken Platter Tandoori",
+      "price": 1550
+    },
+    {
+      "section": "Starters",
+      "item": "Mini Non-veg Platter Tandoori",
+      "price": 1475
+    },
+    {
+      "section": "Starters",
+      "item": "Mutton Platter Tandoori",
+      "price": 1675
+    },
+    {
+      "section": "Starters",
+      "item": "Non-veg Platter Tandoori",
+      "price": 2495
+    },
+    {
+      "section": "Starters",
+      "item": "Vegetarian Platter Tandoori",
+      "price": 1095
+    },
+    {
+      "section": "Starters",
+      "item": "Vegetarian Shahi Platter",
+      "price": 1525
+    },
+    {
+      "section": "Main Course",
+      "item": "Aloo Gobi (seasonal)",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Aloo Jeera",
+      "price": 575
+    },
+    {
+      "section": "Main Course",
+      "item": "Aloo Mutter",
+      "price": 575
+    },
+    {
+      "section": "Main Course",
+      "item": "Bhindi (seasonal)",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Gravy",
+      "price": 525
+    },
+    {
+      "section": "Main Course",
+      "item": "Chana Dal",
+      "price": 595
+    },
+    {
+      "section": "Main Course",
+      "item": "Chole Masala",
+      "price": 595
+    },
+    {
+      "section": "Main Course",
+      "item": "Dal Makhani",
+      "price": 650
+    },
+    {
+      "section": "Main Course",
+      "item": "Egg Bhurji",
+      "price": 575
+    },
+    {
+      "section": "Main Course",
+      "item": "Fresh Paneer Masala",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Gobhi Masala",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Half Veg",
+      "price": 485
+    },
+    {
+      "section": "Main Course",
+      "item": "Kadhai Aloo",
+      "price": 575
+    },
+    {
+      "section": "Main Course",
+      "item": "Kali Daal Tadka",
+      "price": 585
+    },
+    {
+      "section": "Main Course",
+      "item": "Kofta Mutter",
+      "price": 615
+    },
+    {
+      "section": "Main Course",
+      "item": "Malai Kofta",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Matar Paneer",
+      "price": 650
+    },
+    {
+      "section": "Main Course",
+      "item": "Mix Vegetable",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Moong Dal",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Mushroom Masala",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutter Mushroom",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Navratan Korma",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak",
+      "price": 595
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak Aloo",
+      "price": 615
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak Corn",
+      "price": 615
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak Kofta",
+      "price": 650
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak Mushroom",
+      "price": 650
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak Paneer",
+      "price": 650
+    },
+    {
+      "section": "Main Course",
+      "item": "Paneer Bhurji",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Paneer Karahi",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Paneer Lababdar",
+      "price": 775
+    },
+    {
+      "section": "Main Course",
+      "item": "Paneer Lajawab",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Paneer Makhani",
+      "price": 745
+    },
+    {
+      "section": "Main Course",
+      "item": "Paneer Tikka Masala",
+      "price": 775
+    },
+    {
+      "section": "Main Course",
+      "item": "Rarda Paneer",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Shahi Paneer",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Soya Veg Tikka Makhani",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Soya Veg Tikka Masala",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Stuffed Dum Aloo",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Veg Handi",
+      "price": 650
+    },
+    {
+      "section": "Main Course",
+      "item": "Veg Korma",
+      "price": 695
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken With Bone",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken (Boneless)",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken (Bone)",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken 10 Tikka Pcs",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken [5pcs]",
+      "price": 615
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken Quarter With Bone",
+      "price": 615
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Curry (4pcs/8pcs)",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Curry(2pcs)",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Karahi",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Karahi Boneless",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Keema",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Lajawab",
+      "price": 775
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Rarda",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Rarda Boneless",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Saag Wala 2pcs",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Sag Wala",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Tikka Masala",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chiken Korma",
+      "price": 775
+    },
+    {
+      "section": "Main Course",
+      "item": "Egg Curry",
+      "price": 625
+    },
+    {
+      "section": "Main Course",
+      "item": "Extra Butter Gravy (GRAVY ONLY)",
+      "price": 425
+    },
+    {
+      "section": "Main Course",
+      "item": "Fix Menu",
+      "price": 950
+    },
+    {
+      "section": "Main Course",
+      "item": "Brain Curry",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Brain Masala",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Extra Mutton Curry (GRAVY ONLY)",
+      "price": 425
+    },
+    {
+      "section": "Main Course",
+      "item": "Keema Egg",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Keema Mutter",
+      "price": 895
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Korma",
+      "price": 995
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Rarda",
+      "price": 1025
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Rogan Josh",
+      "price": 945
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Saag Wala",
+      "price": 945
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Tikka Masala",
+      "price": 1025
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Fish",
+      "price": 1225
+    },
+    {
+      "section": "Main Course",
+      "item": "Fish Curry",
+      "price": 1195
+    },
+    {
+      "section": "Main Course",
+      "item": "Fish Tikka Masala",
+      "price": 1195
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Biryani",
+      "price": 995
+    },
+    {
+      "section": "Main Course",
+      "item": "Egg Pulav",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Jeera Pulao",
+      "price": 615
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Biryani",
+      "price": 995
+    },
+    {
+      "section": "Main Course",
+      "item": "Peas Pulao",
+      "price": 725
+    },
+    {
+      "section": "Main Course",
+      "item": "Plain Rice",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Vegetable Biryani",
+      "price": 725
+    },
+    {
+      "section": "Roti",
+      "item": "Baby Naan",
+      "price": 125
+    },
+    {
+      "section": "Roti",
+      "item": "Baby Roti",
+      "price": 80
+    },
+    {
+      "section": "Roti",
+      "item": "Butter Naan",
+      "price": 210
+    },
+    {
+      "section": "Roti",
+      "item": "Butter Roti",
+      "price": 130
+    },
+    {
+      "section": "Roti",
+      "item": "Garlic Kulcha",
+      "price": 295
+    },
+    {
+      "section": "Roti",
+      "item": "Garlic Naan",
+      "price": 325
+    },
+    {
+      "section": "Roti",
+      "item": "Garlic Paratha",
+      "price": 325
+    },
+    {
+      "section": "Roti",
+      "item": "Garlic Roti",
+      "price": 195
+    },
+    {
+      "section": "Roti",
+      "item": "Keema Naan",
+      "price": 325
+    },
+    {
+      "section": "Roti",
+      "item": "Khasta Roti",
+      "price": 175
+    },
+    {
+      "section": "Roti",
+      "item": "Mirchi Paratha (green Chilli)",
+      "price": 210
+    },
+    {
+      "section": "Roti",
+      "item": "Mirchi Paratha(red Chilli)",
+      "price": 210
+    },
+    {
+      "section": "Roti",
+      "item": "Mirchi Roti",
+      "price": 195
+    },
+    {
+      "section": "Roti",
+      "item": "Missi Roti",
+      "price": 195
+    },
+    {
+      "section": "Roti",
+      "item": "Onion Kulcha",
+      "price": 295
+    },
+    {
+      "section": "Roti",
+      "item": "Paneer Naan",
+      "price": 295
+    },
+    {
+      "section": "Roti",
+      "item": "Plain Kulcha",
+      "price": 155
+    },
+    {
+      "section": "Roti",
+      "item": "Plain Naan",
+      "price": 170
+    },
+    {
+      "section": "Roti",
+      "item": "Pudhina Paratha",
+      "price": 210
+    },
+    {
+      "section": "Roti",
+      "item": "Rumali Roti",
+      "price": 125
+    },
+    {
+      "section": "Roti",
+      "item": "Stuffed Kulcha",
+      "price": 250
+    },
+    {
+      "section": "Roti",
+      "item": "Stuffed Naan",
+      "price": 295
+    },
+    {
+      "section": "Roti",
+      "item": "Stuffed Paratha",
+      "price": 295
+    },
+    {
+      "section": "Roti",
+      "item": "Tandoori Paratha",
+      "price": 195
+    },
+    {
+      "section": "Roti",
+      "item": "Tandoori Roti",
+      "price": 95
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Gulab Jamun",
+      "price": 0
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Phirni",
+      "price": 425
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Rasmalai",
+      "price": 0
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Aerated Water ( Pet )",
+      "price": 170
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Aerated Water Energy",
+      "price": 350
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Apple Juice",
+      "price": 295
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Chaach [500ml]",
+      "price": 225
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Fresh Lime Soda",
+      "price": 295
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Fresh Lime Water",
+      "price": 195
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Jal Jeera",
+      "price": 175
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Lassi [350ml]",
+      "price": 295
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Loose Aerated Water",
+      "price": 170
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Loose Aerated Water Diet",
+      "price": 180
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Loose Soda",
+      "price": 120
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Mango Lassi[350ml]",
+      "price": 295
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Mineral Water [1 Litter]",
+      "price": 90
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Mixed Juice",
+      "price": 295
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Opened Aerated Water",
+      "price": 180
+    },
+    {
+      "section": "Desserts & Beverages",
+      "item": "Opened Aerated Water Diet",
+      "price": 195
+    },
+    {
+      "section": "Soup",
+      "item": "Chicken Soup",
+      "price": 325
+    },
+    {
+      "section": "Soup",
+      "item": "Chicken Sweet Corn Coup",
+      "price": 325
+    },
+    {
+      "section": "Soup",
+      "item": "Tomato Soup",
+      "price": 325
+    },
+    {
+      "section": "Soup",
+      "item": "Veg Sweet Corn Soup",
+      "price": 325
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Boondi Raita",
+      "price": 375
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Green Salad",
+      "price": 395
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Kheera Raita",
+      "price": 375
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Masala Papad",
+      "price": 115
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Mix Raita",
+      "price": 375
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Papad Roasted",
+      "price": 75
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Pineapple Raita",
+      "price": 395
+    },
+    {
+      "section": "Accompaniments",
+      "item": "Plain Raita",
+      "price": 225
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Roll",
+      "price": 425
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Tikka Roll",
+      "price": 495
+    },
+    {
+      "section": "Rolls",
+      "item": "Mutton Roll",
+      "price": 495
+    },
+    {
+      "section": "Rolls",
+      "item": "Veg Roll",
+      "price": 375
+    }
+  ],
+  "qureshis-kabab-corner-defence-colony-new-delhi": [
+    {
+      "section": "Tandoori",
+      "item": "Mushroom Tikka",
+      "price": 400
+    },
+    {
+      "section": "Tandoori",
+      "item": "Tandoori Chicken",
+      "price": 0
+    },
+    {
+      "section": "Tandoori",
+      "item": "Afghani Chicken",
+      "price": 0
+    },
+    {
+      "section": "Tandoori",
+      "item": "Chicken Tikka",
+      "price": 0
+    },
+    {
+      "section": "Tandoori",
+      "item": "Chicken Malai Tikka",
+      "price": 0
+    },
+    {
+      "section": "Tandoori",
+      "item": "Chicken Tangri Kabab 4pieces",
+      "price": 400
+    },
+    {
+      "section": "Tandoori",
+      "item": "Chicken Seekh Kabab 4pieces",
+      "price": 440
+    },
+    {
+      "section": "Tandoori",
+      "item": "Mutton Barra (4 Pieces)",
+      "price": 700
+    },
+    {
+      "section": "Tandoori",
+      "item": "Mutton Seekh Kabab (4 Pieces)",
+      "price": 480
+    },
+    {
+      "section": "Tandoori",
+      "item": "Paneer Tikka (6 Pieces)",
+      "price": 400
+    },
+    {
+      "section": "Tandoori",
+      "item": "Paneer Malai Tikka (6 Pieces)",
+      "price": 450
+    },
+    {
+      "section": "Tandoori",
+      "item": "Soya Tandoori Chaap (8 Pieces)",
+      "price": 400
+    },
+    {
+      "section": "Tandoori",
+      "item": "Soya Tandoori Malai Chaap (8 Pieces)",
+      "price": 450
+    },
+    {
+      "section": "Tandoori",
+      "item": "Mint Chutney",
+      "price": 10
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken With Bone",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Butter Chicken Boneless",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Kadhai Chicken With Bone",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Kadhai Chicken Boneless",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Korma With Bone",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Korma Boneless",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Saag Wala With Bone",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Saag Wala Boneless",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Korma",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Kadhai Mutton",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Meat Saagwala",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Chicken Seekh Tawa",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Mutton Seekh Tawa",
+      "price": 0
+    },
+    {
+      "section": "Main Course",
+      "item": "Tawa Paneer",
+      "price": 490
+    },
+    {
+      "section": "Main Course",
+      "item": "Shahi Paneer",
+      "price": 440
+    },
+    {
+      "section": "Main Course",
+      "item": "Kadhai Paneer",
+      "price": 440
+    },
+    {
+      "section": "Main Course",
+      "item": "Palak Paneer",
+      "price": 440
+    },
+    {
+      "section": "Main Course",
+      "item": "Dal Makhani",
+      "price": 440
+    },
+    {
+      "section": "Main Course",
+      "item": "Mix Veg",
+      "price": 440
+    },
+    {
+      "section": "Main Course",
+      "item": "Kadhai Soya Chaap",
+      "price": 390
+    },
+    {
+      "section": "Main Course",
+      "item": "Soya Butter Masala Chaap",
+      "price": 390
+    },
+    {
+      "section": "Main Course",
+      "item": "Tawa Soya Chaap",
+      "price": 390
+    },
+    {
+      "section": "Main Course",
+      "item": "Veg Pulao",
+      "price": 340
+    },
+    {
+      "section": "Main Course",
+      "item": "Jeera Rice",
+      "price": 240
+    },
+    {
+      "section": "Main Course",
+      "item": "Plain Rice",
+      "price": 190
+    },
+    {
+      "section": "Main Course",
+      "item": "Veg Butter Gravy Only",
+      "price": 250
+    },
+    {
+      "section": "Tawa Items",
+      "item": "Chicken Tawa With Bone",
+      "price": 0
+    },
+    {
+      "section": "Tawa Items",
+      "item": "Chicken Tawa Boneless",
+      "price": 0
+    },
+    {
+      "section": "Shawarma Rolls",
+      "item": "Chicken Shawarma",
+      "price": 340
+    },
+    {
+      "section": "Shawarma Rolls",
+      "item": "Paneer Shawarma Roll 4pcs",
+      "price": 260
+    },
+    {
+      "section": "Shawarma Rolls",
+      "item": "Soya Shawarma Roll 4pcs",
+      "price": 260
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Seekh Roll",
+      "price": 280
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Seekh Masala Roll",
+      "price": 320
+    },
+    {
+      "section": "Rolls",
+      "item": "Malai Chicken Seekh Roll",
+      "price": 340
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Tikka Roll",
+      "price": 320
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Masala Roll",
+      "price": 340
+    },
+    {
+      "section": "Rolls",
+      "item": "Chicken Malai Tikka Roll",
+      "price": 340
+    },
+    {
+      "section": "Rolls",
+      "item": "Mutton Seekh Roll",
+      "price": 340
+    },
+    {
+      "section": "Rolls",
+      "item": "Mutton Seekh Masala Roll",
+      "price": 340
+    },
+    {
+      "section": "Rolls",
+      "item": "Paneer Masala Roll",
+      "price": 260
+    },
+    {
+      "section": "Rolls",
+      "item": "Paneer Tikka Roll",
+      "price": 260
+    },
+    {
+      "section": "Rolls",
+      "item": "Paneer Malai Tikka Roll",
+      "price": 280
+    },
+    {
+      "section": "Rolls",
+      "item": "Soya Tandoori Chaap Roll",
+      "price": 240
+    },
+    {
+      "section": "Rolls",
+      "item": "Soya Tandoori Malai Chaap Roll",
+      "price": 260
+    },
+    {
+      "section": "Biryani",
+      "item": "Chicken Biryani",
+      "price": 380
+    },
+    {
+      "section": "Biryani",
+      "item": "Mutton Biryani",
+      "price": 440
+    },
+    {
+      "section": "Biryani",
+      "item": "Veg Biryani",
+      "price": 300
+    },
+    {
+      "section": "Naan / Roti",
+      "item": "Butter Naan",
+      "price": 140
+    },
+    {
+      "section": "Naan / Roti",
+      "item": "Plain Naan",
+      "price": 110
+    },
+    {
+      "section": "Naan / Roti",
+      "item": "Lachha Parantha",
+      "price": 75
+    },
+    {
+      "section": "Naan / Roti",
+      "item": "Roomali Roti",
+      "price": 55
+    },
+    {
+      "section": "Naan / Roti",
+      "item": "Tandoori Roti",
+      "price": 35
+    },
+    {
+      "section": "Naan / Roti",
+      "item": "Butter Roti",
+      "price": 40
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Garlic Naan",
+      "price": 170
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Paneer Naan",
+      "price": 200
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Chicken Keema Naan",
+      "price": 270
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Mutton Keema Naan",
+      "price": 320
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Red Chilli Parantha",
+      "price": 90
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Green Chilli Parantha",
+      "price": 90
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Pudina Parantha",
+      "price": 90
+    },
+    {
+      "section": "Stuffed Naan / Parantha",
+      "item": "Paneer Parantha",
+      "price": 200
+    }
+  ]
+}
